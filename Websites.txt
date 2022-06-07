@@ -1,0 +1,17 @@
+1) https://github.com/asabeneh/30-Days-Of-Python
+2) https://bogotobogo.com/DevOps/Docker/Docker_Kubernetes_MongoDB_MongoExpress.php
+3) https://github.com/sidpalas/devops-directive-terraform-course
+4) https://github.com/hashicorp/terraform-guides
+5) https://github.com/stacksimplify/hashicorp-certified-terraform-associate
+6) https://github.com/wardviaene/terraform-course
+7) https://learnpython.org/
+8) https://www.youtube.com/watch?v=8ext9G7xspg
+9) https://bogotobogo.com/DevOps/DevOps-Sys-Admin-Interview-Questions-AWS-VPC-Setup.php
+10) https://www.bogotobogo.com/DevOps/AWS/aws-Amazon-EC2-Container-Service-ECS.php
+11) https://www.bogotobogo.com/DevOps/AWS/aws-Load-Balancing-with-HAProxy-High-Availability-Proxy.php
+12) https://www.bogotobogo.com/DevOps/AWS/aws-adding-a-ssh-user-account-on-linux-instance.php
+14) https://github.com/aws-samples
+15) https://engineering.finleap.com/
+16) https://gmusumeci.medium.com/how-to-deploy-a-red-hat-enterprise-linux-rhel-ec2-instance-in-aws-using-terraform-6570ad6ee19f
+17) https://realpython.com/lessons/deploy-python-script-flask-overview/
+18) https://www.youtube.com/c/Pythoholic/videos
