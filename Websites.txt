@@ -15,3 +15,4 @@
 16) https://gmusumeci.medium.com/how-to-deploy-a-red-hat-enterprise-linux-rhel-ec2-instance-in-aws-using-terraform-6570ad6ee19f
 17) https://realpython.com/lessons/deploy-python-script-flask-overview/
 18) https://www.youtube.com/c/Pythoholic/videos
+19) https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-application-with-docker
